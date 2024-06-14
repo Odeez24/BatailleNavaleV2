@@ -1,0 +1,7 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{+w}{      }\PYG{k+kd}{public}\PYG{+w}{ }\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{setSelected}\PYG{p}{(}\PYG{k+kt}{boolean}\PYG{+w}{ }\PYG{n}{selected}\PYG{p}{)}
+
+\PYG{+w}{      }\PYG{k+kd}{public}\PYG{+w}{ }\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{setPlaced}\PYG{p}{(}\PYG{k+kt}{boolean}\PYG{+w}{ }\PYG{n}{placed}\PYG{p}{)}
+
+\PYG{+w}{      }\PYG{k+kd}{public}\PYG{+w}{ }\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{rotate}\PYG{p}{()}
+\end{Verbatim}

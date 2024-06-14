@@ -1,0 +1,44 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Cahier des charges}{3}{}%
+\contentsline {subsection}{\numberline {1.2}'Proof of concept'}{5}{}%
+\contentsline {section}{\numberline {2}Version initiale}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Architecture du programme}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Apparence de la version initiale}{8}{}%
+\contentsline {subsection}{\numberline {2.3}Intelligence artificielle}{10}{}%
+\contentsline {subsubsection}{\numberline {2.3.1}Implémentations}{10}{}%
+\contentsline {subsubsection}{\numberline {2.3.2}Algorithmes}{10}{}%
+\contentsline {subsubsection}{\numberline {2.3.3}Améliorations possibles}{11}{}%
+\contentsline {subsubsection}{\numberline {2.3.4}Placement des bateaux}{12}{}%
+\contentsline {section}{\numberline {3}Nouvelle Version}{13}{}%
+\contentsline {subsection}{\numberline {3.1}Architecture du code coté client}{13}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Module \texttt {Ship}}{14}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Classe \texttt {TileState}}{14}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}Module \texttt {Grid}}{14}{}%
+\contentsline {subsubsection}{\numberline {3.1.4}GamePanel}{15}{}%
+\contentsline {subsubsection}{\numberline {3.1.5}BNClient}{16}{}%
+\contentsline {subsubsection}{\numberline {3.1.6}Game}{16}{}%
+\contentsline {subsubsection}{\numberline {3.1.7}GameVsPlayer}{17}{}%
+\contentsline {subsubsection}{\numberline {3.1.8}GameVsIA}{17}{}%
+\contentsline {subsection}{\numberline {3.2}Architecture réseau}{17}{}%
+\contentsline {subsection}{\numberline {3.3}Architecture code coté serveur}{19}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Communication entre serveur et clients}{20}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Message d'erreur lors de la communication}{21}{}%
+\contentsline {subsubsection}{\numberline {3.3.3}Envoie des coordonnées des bateaux au serveur}{22}{}%
+\contentsline {subsubsection}{\numberline {3.3.4}Sécurité des communication}{24}{}%
+\contentsline {section}{\numberline {4}Interfaces graphiques}{24}{}%
+\contentsline {subsection}{\numberline {4.1}GraphicGrid}{25}{}%
+\contentsline {subsection}{\numberline {4.2}GraphicShip}{25}{}%
+\contentsline {subsection}{\numberline {4.3}StartMenuAppli}{26}{}%
+\contentsline {subsection}{\numberline {4.4}ShipPlacer}{27}{}%
+\contentsline {subsection}{\numberline {4.5}Écran d'attente}{27}{}%
+\contentsline {subsection}{\numberline {4.6}InGameAppli}{28}{}%
+\contentsline {subsection}{\numberline {4.7}Écran de fin de partie}{30}{}%
+\contentsline {section}{\numberline {5}Annexe}{30}{}%
+\contentsline {subsection}{\numberline {5.1}Utilisation du programme}{30}{}%
+\contentsline {subsubsection}{\numberline {5.1.1}Programme Client}{30}{}%
+\contentsline {subsubsection}{\numberline {5.1.2}Programme Serveur}{31}{}%
+\contentsline {subsubsection}{\numberline {5.1.3}Déroulement d'une partie en ligne}{31}{}%
+\contentsline {subsection}{\numberline {5.2}Difficultés rencontrées}{33}{}%
+\contentsline {subsection}{\numberline {5.3}Amélioration globale possible}{33}{}%
+\contentsline {section}{\numberline {6}Conclusion}{34}{}%

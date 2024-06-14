@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{+w}{      }java\PYG{+w}{ }\PYGZhy{}\PYGZhy{}module\PYGZhy{}path\PYG{+w}{ }./javafx\PYGZhy{}path/lib
+\PYG{+w}{      }\PYGZhy{}\PYGZhy{}add\PYGZhy{}modules\PYG{+w}{ }javafx.controls,javafx.fxml,javafx.media
+\PYG{+w}{      }\PYGZhy{}jar\PYG{+w}{ }BatailleNavale\PYGZhy{}1.0.jar
+\end{Verbatim}

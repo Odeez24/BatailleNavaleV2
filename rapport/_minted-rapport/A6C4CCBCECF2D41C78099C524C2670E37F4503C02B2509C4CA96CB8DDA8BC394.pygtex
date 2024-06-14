@@ -1,0 +1,9 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{+w}{      }\PYG{n}{Enumeration}\PYG{+w}{ }\PYG{n+nf}{children}\PYG{p}{()}
+\PYG{+w}{      }\PYG{n}{TreeNode}\PYG{+w}{ }\PYG{n+nf}{getChildAt}\PYG{p}{(}\PYG{k+kt}{int}\PYG{p}{)}
+\PYG{+w}{      }\PYG{k+kt}{int}\PYG{+w}{ }\PYG{n+nf}{getChildCount}\PYG{p}{()}
+\PYG{+w}{      }\PYG{k+kt}{int}\PYG{+w}{ }\PYG{n+nf}{getIndex}\PYG{p}{(}\PYG{n}{TreeNode}\PYG{p}{)}
+\PYG{+w}{      }\PYG{n}{TreeNode}\PYG{+w}{ }\PYG{n+nf}{getParent}\PYG{p}{()}
+\PYG{+w}{      }\PYG{k+kt}{boolean}\PYG{+w}{ }\PYG{n+nf}{isLeaf}\PYG{p}{()}
+\PYG{+w}{      }\PYG{k+kt}{boolean}\PYG{+w}{ }\PYG{n+nf}{getAllowChildren}\PYG{p}{()}
+\end{Verbatim}

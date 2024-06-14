@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{+w}{      }\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{Hit}\PYG{p}{(}\PYG{k+kt}{int}\PYG{+w}{ }\PYG{n}{row}\PYG{p}{,}\PYG{+w}{ }\PYG{k+kt}{int}\PYG{+w}{ }\PYG{n}{col}\PYG{p}{);}
+\PYG{+w}{      }\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{getHit}\PYG{p}{();}
+\PYG{+w}{      }\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{run}\PYG{p}{();}
+\PYG{+w}{      }\PYG{k+kt}{void}\PYG{+w}{ }\PYG{n+nf}{endGame}\PYG{p}{();}
+\end{Verbatim}

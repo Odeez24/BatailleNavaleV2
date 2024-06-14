@@ -1,0 +1,10 @@
+{"rule":"XXieme","sentence":"^\\QEn effet, il n'existe, à notre connaissance, aucun placement de \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q bateaux (ici, \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q = 5) sur une grille de 10x10 (à savoir la grille utilisée pour la modélisation du jeu) qui empêcherait le placement du \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Qiéme bateau, la grille proposant toujours suffisamment de cases et d'emplacements de taille maximum 5 pour placer le dernier bateau, quelle que soit sa taille.\\E$"}
+{"rule":"FR_SPELLING_RULE","sentence":"^\\QCette maquette a été réalisée sous Figma, et a été crée avec des composants se voulant issus des directives et modules de la bibliothèque GNOME/GTK4/LibAdwaita.\\E$"}
+{"rule":"FR_SPELLING_RULE","sentence":"^\\QLa palette de couleur utilisée reprend la palette Catppuccin Mocha.\\E$"}
+{"rule":"FR_SPELLING_RULE","sentence":"^\\QVis-à-vis des règles du jeu `Bataille navale', nous nous sommes basés sur les règles du jeu `Touché-Coulé', commercialisé par Hasbro.\\E$"}
+{"rule":"PATTERN","sentence":"^\\QBADARGS : Le message reçu n'est pas celui attendu ou ne respecte pas le pattern attendu\\E$"}
+{"rule":"PATTERN","sentence":"^\\QBADARGS : Le message reçu n'est pas celui attendu ou ne respecte pas le pattern attendu.\\E$"}
+{"rule":"PATTERN","sentence":"^\\Q[\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q] BADARGS : Le message reçu n'est pas celui attendu ou ne respecte pas le pattern attendu.\\E$"}
+{"rule":"FR_SPELLING_RULE","sentence":"^\\QPar exemple lorsque l'on sélectionne le mode JvJ on ne peut pas choisir la difficulté Annexe.\\E$"}
+{"rule":"PATTERN","sentence":"^\\QLe TextField lui est soumis à un pattern matching\\E$"}
+{"rule":"FR_SPELLING_RULE","sentence":"^\\QLes sockets SSL sont des sockets utilisant la clé nommée keystore.jks\\E$"}

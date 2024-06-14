@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <HBox>
+         <children>
+            <AnchorPane>
+               <children>
+                  <GridPane fx:id="enemyGrid" gridLinesVisible="true" AnchorPane.leftAnchor="200.0">
+            </GridPane>
+               </children>
+            </AnchorPane>
+            <VBox alignment="CENTER" spacing="100.0">
+               <children>
+                  <Label fx:id="NbShipsEnnemy" text="rhghshg">
+                     <font>
+                        <Font size="20.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="Time" text="Label">
+                     <font>
+                        <Font size="20.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="NbShipsPlayer" text="Label">
+                     <font>
+                        <Font size="20.0" />
+                     </font>
+                  </Label>
+               </children>
+               <HBox.margin>
+                  <Insets left="10.0" right="10.0" />
+               </HBox.margin>
+            </VBox>
+            <AnchorPane fx:id="Pane">
+               <children>
+                  <GridPane fx:id="playerGrid" gridLinesVisible="true">
+            </GridPane>
+               </children>
+               <HBox.margin>
+                  <Insets right="200.0" />
+               </HBox.margin>
+            </AnchorPane>
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>
